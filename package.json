@@ -1,5 +1,7 @@
 {
   "homepage": "https://brad-hartwig.github.io/my-app",
+  "foo": "bar",
+  "baz": "bar",
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
