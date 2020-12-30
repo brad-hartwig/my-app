@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+
+.border{
+  border-width: 1px;
+  border-style: solid;
+  padding: 3px;
+}
+.orange{
+  border-color: orange;
+}
+.blue{
+  border-color: blue;
+}
+.green{
+  border-color: green;
+}
+.red{
+  border-color: red;
+}
+table{
+  border-collapse: collapse;
+}
